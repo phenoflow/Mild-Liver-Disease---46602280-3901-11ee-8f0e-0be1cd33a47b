@@ -1,0 +1,72 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/viral-mild-liver-disease---primary.py
+inputModule3:
+  class: File
+  path: python/secondary-mild-liver-disease---primary.py
+inputModule4:
+  class: File
+  path: python/gonococcal-mild-liver-disease---primary.py
+inputModule5:
+  class: File
+  path: python/mild-liver-disease-hepatitis---primary.py
+inputModule6:
+  class: File
+  path: python/mild-liver-disease-sequelae---primary.py
+inputModule7:
+  class: File
+  path: python/acute-mild-liver-disease---primary.py
+inputModule8:
+  class: File
+  path: python/other-mild-liver-disease---primary.py
+inputModule9:
+  class: File
+  path: python/mild-liver-disease-unspecified---primary.py
+inputModule10:
+  class: File
+  path: python/mild-liver-disease-cirrhosis---primary.py
+inputModule11:
+  class: File
+  path: python/mild-liver-disease-fibrosis---primary.py
+inputModule12:
+  class: File
+  path: python/mild-liver-disease-varice---primary.py
+inputModule13:
+  class: File
+  path: python/chronic-mild-liver-disease---primary.py
+inputModule14:
+  class: File
+  path: python/nonalcoholic-mild-liver-disease---primary.py
+inputModule15:
+  class: File
+  path: python/persistent-mild-liver-disease---primary.py
+inputModule16:
+  class: File
+  path: python/active-mild-liver-disease---primary.py
+inputModule17:
+  class: File
+  path: python/mild-liver-disease-autoimmune---primary.py
+inputModule18:
+  class: File
+  path: python/lobular-mild-liver-disease---primary.py
+inputModule19:
+  class: File
+  path: python/portal-mild-liver-disease---primary.py
+inputModule20:
+  class: File
+  path: python/mild-liver-disease-biliary---primary.py
+inputModule21:
+  class: File
+  path: python/toxic-mild-liver-disease---primary.py
+inputModule22:
+  class: File
+  path: python/mild-liver-disease-classified---primary.py
+inputModule23:
+  class: File
+  path: python/output-cases.py
